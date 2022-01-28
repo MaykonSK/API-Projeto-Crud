@@ -1,9 +1,9 @@
 {
   "users": [
-    { "userId": 1, "name": "Maycon"},
-    { "userId": 2, "name": "Rodrigo"}
+    { "userId": 1, "name": "Maycon" },
+    { "userId": 2, "name": "Rodrigo" }
   ],
   "posts": [
-    { "userId": 1, "postId": 1, "title": "Primeiro post" "body": "Esse é o corpo do meu post"}
+    { "userId": 1, "postId": 1, "title": "Primeiro post" "body": "Esse é o corpo do meu post" }
   ]
 }
