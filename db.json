@@ -6,7 +6,8 @@
   ],
   "posts": [
     { "userId": 1, "id": 1, "title": "Primeiro post", "body": "corpo do post 1" },
-    { "userId": 2, "id": 1, "title": "Segundo post", "body": "corpo do post 2" }
+    { "userId": 2, "id": 2, "title": "Segundo post", "body": "corpo do post 2" },
+    { "userId": 1, "id": 3, "title": "Segundo post", "body": "corpo do post 2" }
   ],
   "empresa": {
     "nome": "Code Prestige"
